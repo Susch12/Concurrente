@@ -1,0 +1,9 @@
+08/05/25 
+Productor Consumidor está siendo manejado por semaforos, necesita actualizarse para despues escoger una técnica
+Filosofos está siendo manejado por Monitores/synchronized
+BarberoDormilon está siendo manejador por wait y notify 
+Fumadores está siendo manejado por semaphore
+LectoresEscritores está siendo manejado por lectores prioritarios con synchronized
+
+
+
